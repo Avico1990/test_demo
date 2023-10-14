@@ -1,1 +1,3 @@
 Hello GIT demo file.
+Name: Avinash
+Regi Number: 11029
